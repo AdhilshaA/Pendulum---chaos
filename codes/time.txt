@@ -1,0 +1,20 @@
+0.025 stepsize RK4 completed
+Total time taken: 0.5901322364807129 seconds
+Time taken for simple RK4: 0.05201244354248047 seconds
+Time taken for adaptive RK4: 0.5381197929382324 seconds
+
+0.001 stepsize RK4 completed
+Total time taken: 0.947110652923584 seconds
+Time taken for simple RK4: 0.947110652923584 seconds
+
+0.0001 stepsize RK4 completed
+Total time taken: 9.862621545791626 seconds
+Time taken for simple RK4: 9.86163592338562 seconds
+
+1e-05 stepsize RK4 completed
+Total time taken: 97.80130815505981 seconds
+Time taken for simple RK4: 97.80031251907349 seconds
+
+1e-06 stepsize RK4 completed
+Total time taken: 986.2789900302887 seconds
+Time taken for simple RK4: 986.0785899162292 seconds
